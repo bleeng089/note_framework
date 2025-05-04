@@ -1,8 +1,9 @@
 # Note taking frameworks
 
-## [Jenkins 1](https://github.com/bleeng089/note_framework/blob/main/Jira/)
+## [Jenkins 1](https://bleeng089.github.io/note_framework/Jira/)
 
-## [Jenkins 2](https://github.com/bleeng089/note_framework/blob/main/Jira2/)
+## [Jenkins 2](https://bleeng089.github.io/note_framework/Jira2/)
 
-## [Long form](https://github.com/bleeng089/note_framework/blob/main/)
+## [Long Form](https://bleeng089.github.io/note_framework/)
+
 
