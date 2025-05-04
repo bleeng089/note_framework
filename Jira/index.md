@@ -1,10 +1,4 @@
 
-Below is a **Jira ticket framework** tailored for students to document their code troubleshooting process. This framework is designed to be clear, structured, and educational, helping students articulate issues, track their problem-solving steps, and learn from the process. It can be adapted for use in Jira or any similar issue-tracking tool.
-
----
-
-### Jira Ticket Framework for Code Troubleshooting
-
 **Ticket Title**:  
 [Short Description of the Issue] - [Context or Feature Name]  
 *Example*: "NullPointerException in User Login Function"
@@ -175,6 +169,5 @@ public User login(String username, String password) {
 - [ ] Fix is tested locally with valid and invalid credentials.  
 - [ ] Solution is documented in the ticket.  
 
----
 
-This framework encourages students to think critically about their troubleshooting process, communicate effectively, and document their work in a professional way. If you’d like, I can customize this further (e.g., for a specific programming language or course structure) or provide guidance on setting it up in Jira. Let me know!
+
